@@ -1,5 +1,3 @@
-<html>
-<?
-echo"Hi, Welcome";
+<? php
+print"Hi, Welcome";
 >
-</html>
