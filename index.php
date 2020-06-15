@@ -1,3 +1,3 @@
-<? php
-print"Hi, Welcome";
+<?php
+print "Hi, Welcome";
 >
