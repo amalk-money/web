@@ -1,3 +1,3 @@
 <?php
-print 'hi'
+print 'hi';
 >
